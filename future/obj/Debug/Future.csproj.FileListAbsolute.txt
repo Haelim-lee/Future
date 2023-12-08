@@ -1,0 +1,169 @@
+C:\Users\user\source\repos\future\future\bin\Debug\future.exe.config
+C:\Users\user\source\repos\future\future\bin\Debug\future.exe
+C:\Users\user\source\repos\future\future\bin\Debug\future.pdb
+C:\Users\user\source\repos\future\future\obj\Debug\future.csprojAssemblyReference.cache
+C:\Users\user\source\repos\future\future\obj\Debug\future.AchievedMain.resources
+C:\Users\user\source\repos\future\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\source\repos\future\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\source\repos\future\future\obj\Debug\future.csproj.GenerateResource.cache
+C:\Users\user\source\repos\future\future\obj\Debug\future.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\future\future\obj\Debug\future.exe
+C:\Users\user\source\repos\future\future\obj\Debug\future.pdb
+C:\Users\user\source\repos\future\future\obj\Debug\future.MemberJoin.resources
+\\Mac\Home\Desktop\future\future\obj\Debug\Future.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\future\future\obj\Debug\future.AchievedMain.resources
+\\Mac\Home\Desktop\future\future\obj\Debug\future.LoginForm.resources
+\\Mac\Home\Desktop\future\future\obj\Debug\future.MemberJoin.resources
+\\Mac\Home\Desktop\future\future\obj\Debug\future.Properties.Resources.resources
+\\Mac\Home\Desktop\future\future\obj\Debug\Future.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\future\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\future\future\bin\Debug\future.exe.config
+\\Mac\Home\Desktop\future\future\bin\Debug\future.exe
+\\Mac\Home\Desktop\future\future\bin\Debug\future.pdb
+\\Mac\Home\Desktop\future\future\obj\Debug\future.exe
+\\Mac\Home\Desktop\future\future\obj\Debug\future.pdb
+C:\Users\user\Desktop\future\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\user\Desktop\future\future\obj\Debug\future.AchievedMain.resources
+C:\Users\user\Desktop\future\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\Desktop\future\future\obj\Debug\future.MemberJoin.resources
+C:\Users\user\Desktop\future\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\Desktop\future\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\user\Desktop\future\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\future\future\obj\Debug\future.exe
+C:\Users\user\Desktop\future\future\obj\Debug\future.pdb
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.FutureMain.resources
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.LoginForm.resources
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.MemberJoin.resources
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.exe
+C:\Users\Administrator\Desktop\future21-03-28\future\obj\Debug\future.pdb
+C:\Users\Administrator\Desktop\future21-03-28\future\bin\Debug\future.exe.config
+C:\Users\Administrator\Desktop\future21-03-28\future\bin\Debug\future.exe
+C:\Users\Administrator\Desktop\future21-03-28\future\bin\Debug\future.pdb
+C:\Users\user\Desktop\future21-03-28-1\future\bin\Debug\future.exe.config
+C:\Users\user\Desktop\future21-03-28-1\future\bin\Debug\future.exe
+C:\Users\user\Desktop\future21-03-28-1\future\bin\Debug\future.pdb
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.FutureMain.resources
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.MemberJoin.resources
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.exe
+C:\Users\user\Desktop\future21-03-28-1\future\obj\Debug\future.pdb
+C:\Users\PC\Desktop\future21-03-29\future\bin\Debug\future.exe.config
+C:\Users\PC\Desktop\future21-03-29\future\bin\Debug\future.exe
+C:\Users\PC\Desktop\future21-03-29\future\bin\Debug\future.pdb
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.FutureMain.resources
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.LoginForm.resources
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.MemberJoin.resources
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.exe
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.pdb
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.일기.resources
+C:\Users\PC\Desktop\future21-03-29\future\obj\Debug\future.일정.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.일기.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.일정.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.FutureMain.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.MemberJoin.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.exe
+C:\Users\user\Desktop\future21-03-31 (1)\future\obj\Debug\future.pdb
+C:\Users\user\Desktop\future21-03-31 (1)\future\bin\Debug\future.exe.config
+C:\Users\user\Desktop\future21-03-31 (1)\future\bin\Debug\future.exe
+C:\Users\user\Desktop\future21-03-31 (1)\future\bin\Debug\future.pdb
+\\Mac\Home\Desktop\future21-04-01 (1)\future\bin\Debug\future.exe.config
+\\Mac\Home\Desktop\future21-04-01 (1)\future\bin\Debug\future.exe
+\\Mac\Home\Desktop\future21-04-01 (1)\future\bin\Debug\future.pdb
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\Future.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.일기.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.일정.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.정보.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.FutureMain.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.LoginForm.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.MemberJoin.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.Properties.Resources.resources
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\Future.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.exe
+\\Mac\Home\Desktop\future21-04-01 (1)\future\obj\Debug\future.pdb
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\bin\Debug\future.exe.config
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\bin\Debug\future.exe
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\bin\Debug\future.pdb
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.일기.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.일정.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.정보.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.FutureMain.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.LoginForm.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.MemberJoin.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.exe
+C:\Users\Administrator\Desktop\future21-04-01 (2)\future\obj\Debug\future.pdb
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.일기.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.일정.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.정보.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.FutureMain.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.MemberJoin.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.exe
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.pdb
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\bin\Debug\future.exe.config
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\bin\Debug\future.exe
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\bin\Debug\future.pdb
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.목표.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.가계부.resources
+C:\Users\user\Desktop\future21-04-01 (2) (1)\future\obj\Debug\future.일정추가.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\bin\Debug\future.exe.config
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\bin\Debug\future.exe
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\bin\Debug\future.pdb
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\Future.csprojAssemblyReference.cache
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.가계부.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.목표.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.일기.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.일정.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.일정추가.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.정보.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.FutureMain.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.LoginForm.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.MemberJoin.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.Properties.Resources.resources
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\Future.csproj.GenerateResource.cache
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.exe
+C:\Users\user\Desktop\코딩\future21-04-01 (2) (1)\future\obj\Debug\future.pdb
+D:\Project\future21\future\bin\Debug\future.exe.config
+D:\Project\future21\future\bin\Debug\future.exe
+D:\Project\future21\future\bin\Debug\future.pdb
+D:\Project\future21\future\obj\Debug\Future.csproj.AssemblyReference.cache
+D:\Project\future21\future\obj\Debug\future.목표.resources
+D:\Project\future21\future\obj\Debug\future.일기.resources
+D:\Project\future21\future\obj\Debug\future.일정.resources
+D:\Project\future21\future\obj\Debug\future.일정추가.resources
+D:\Project\future21\future\obj\Debug\future.정보.resources
+D:\Project\future21\future\obj\Debug\future.FutureMain.resources
+D:\Project\future21\future\obj\Debug\future.LoginForm.resources
+D:\Project\future21\future\obj\Debug\future.MemberJoin.resources
+D:\Project\future21\future\obj\Debug\future.Properties.Resources.resources
+D:\Project\future21\future\obj\Debug\Future.csproj.GenerateResource.cache
+D:\Project\future21\future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+D:\Project\future21\future\obj\Debug\future.exe
+D:\Project\future21\future\obj\Debug\future.pdb
+D:\Project\future21\future\obj\Debug\future.AccountBook.resources
